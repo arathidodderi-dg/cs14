@@ -5,3 +5,4 @@ def age_check(age):
           print("child")
 age=int(input("enter your name:"))
 age_check(age)
+x=input("enter your 1st name:")
