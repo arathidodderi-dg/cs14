@@ -3,4 +3,3 @@ def name_intake(name):
 name=input("enter your name:")
 name_intake(name)
 print(x)
-
