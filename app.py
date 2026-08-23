@@ -10,3 +10,4 @@ def triangle_area(base, height):
     return area
 def age_check(age):
     print(age)
+
