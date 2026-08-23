@@ -21,3 +21,5 @@ x=input("enter your 1st name:")
 
 def multx(x):
     print(x)
+def name(unoun):
+    print(unoun)
